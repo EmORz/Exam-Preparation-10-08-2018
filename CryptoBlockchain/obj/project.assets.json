@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\HitList\\HitList.csproj",
-      "projectName": "HitList",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\HitList\\HitList.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\CryptoBlockchain\\CryptoBlockchain.csproj",
+      "projectName": "CryptoBlockchain",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\CryptoBlockchain\\CryptoBlockchain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\HitList\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\CryptoBlockchain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

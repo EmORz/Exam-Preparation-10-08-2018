@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\KeyRevolver\\KeyRevolver.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\KeyRevolver\\KeyRevolver.csproj",
       "projectName": "KeyRevolver",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\KeyRevolver\\KeyRevolver.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\KeyRevolver\\KeyRevolver.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\KeyRevolver\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\ExamPreparation_First\\Exam-Preparation-10-08-2018\\KeyRevolver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

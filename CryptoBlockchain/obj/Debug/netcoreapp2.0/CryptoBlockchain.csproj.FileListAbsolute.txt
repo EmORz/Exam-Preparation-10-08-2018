@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.deps.json
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.dll
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\bin\Debug\netcoreapp2.0\CryptoBlockchain.pdb
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.dll
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.pdb
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\CryptoBlockchain\obj\Debug\netcoreapp2.0\CryptoBlockchain.csprojAssemblyReference.cache
