@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ExamPreparation_First\HitList\bin\Debug\netcoreapp2.0\HitList.deps.json
+C:\Users\User\source\repos\ExamPreparation_First\HitList\bin\Debug\netcoreapp2.0\HitList.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation_First\HitList\bin\Debug\netcoreapp2.0\HitList.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation_First\HitList\bin\Debug\netcoreapp2.0\HitList.dll
+C:\Users\User\source\repos\ExamPreparation_First\HitList\bin\Debug\netcoreapp2.0\HitList.pdb
+C:\Users\User\source\repos\ExamPreparation_First\HitList\obj\Debug\netcoreapp2.0\HitList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamPreparation_First\HitList\obj\Debug\netcoreapp2.0\HitList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation_First\HitList\obj\Debug\netcoreapp2.0\HitList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation_First\HitList\obj\Debug\netcoreapp2.0\HitList.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation_First\HitList\obj\Debug\netcoreapp2.0\HitList.dll
+C:\Users\User\source\repos\ExamPreparation_First\HitList\obj\Debug\netcoreapp2.0\HitList.pdb
