@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.deps.json
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.dll
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.pdb
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.dll
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.pdb
+C:\Users\User\source\repos\ExamPreparation_First\Exam-Preparation-10-08-2018\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csprojAssemblyReference.cache
